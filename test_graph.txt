@@ -1,0 +1,8 @@
+# Everything that starts with # is a comment
+# First non comment line is of form Colors = n
+colors = 3
+# Here comes the graph
+1,3
+2,18
+3,19
+2,19
